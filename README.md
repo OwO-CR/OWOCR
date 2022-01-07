@@ -40,7 +40,7 @@ cd OWOCR/
 
 mkdir jeongtae/
 touch jeongtae/first_file.sc
-echo "val firstFile: Int = 1" >> jeongtae/first_file.md
+echo "val firstFile: Int = 1" >> jeongtae/first_file.sc
 
 git branch jeongtae/scala_spark
 git checkout jeongtae/scaal_spark
